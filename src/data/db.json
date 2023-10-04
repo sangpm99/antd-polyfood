@@ -1,0 +1,280 @@
+{
+  "category": [
+    {
+      "categoryId": 1,
+      "categoryName": "Món chay mặn"
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "Hàng chay cấp đông"
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "Món cơm"
+    },
+    {
+      "categoryId": 4,
+      "categoryName": "Món nộm"
+    },
+    {
+      "categoryId": 5,
+      "categoryName": "Rau củ"
+    },
+    {
+      "categoryId": 6,
+      "categoryName": "Đồ uống"
+    }
+  ],
+  "food": [
+    {
+      "foodId": 1,
+      "foodName": "CÁ THU KHO TỘ CHAY",
+      "image": "./images/ca-thu-kho-to-chay.jpg",
+      "originalPrice": 200000,
+      "promotionalPrice": 176000,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [1]
+    },
+    {
+      "foodId": 2,
+      "foodName": "CÁ KÈO CHAY",
+      "image": "./images/ca-keo-chay.webp",
+      "originalPrice": 50000,
+      "promotionalPrice": 45000,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [1]
+    },
+    {
+      "foodId": 3,
+      "foodName": "THỊT NƯỚNG CHAY",
+      "image": "./images/thit-nuong-chay.webp",
+      "originalPrice": 50000,
+      "promotionalPrice": 45000,
+      "isNew": false,
+      "star": 5,
+      "categoryId": [1]
+    },
+    {
+      "foodId": 4,
+      "foodName": "BÒ XÀO CHAY",
+      "image": "./images/bo-xao-chay.webp",
+      "originalPrice": 50000,
+      "promotionalPrice": 45000,
+      "isNew": false,
+      "star": 5,
+      "categoryId": [1]
+    },
+    {
+      "foodId": 5,
+      "foodName": "ĐÙI GÀ CHAY",
+      "image": "./images/dui-ga-chay.webp",
+      "originalPrice": 50000,
+      "promotionalPrice": 45000,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [1]
+    },
+    {
+      "foodId": 6,
+      "foodName": "TÔM TẨM VỪNG CHAY",
+      "image": "./images/tom-tam-vung-chay.webp",
+      "originalPrice": 50000,
+      "promotionalPrice": 45000,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [1]
+    },
+    {
+      "foodId": 7,
+      "foodName": "GIÒ NẤM CHAY",
+      "image": "./images/gio-nam-chay.webp",
+      "originalPrice": 95000,
+      "promotionalPrice": 90250,
+      "isNew": false,
+      "star": 5,
+      "categoryId": [2]
+    },
+    {
+      "foodId": 8,
+      "foodName": "KHOAI MÔN",
+      "image": "./images/khoai-mon.webp",
+      "originalPrice": 56000,
+      "promotionalPrice": 53200,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [2]
+    },
+    {
+      "foodId": 9,
+      "foodName": "GIÒ PHỔ TAI CHAY",
+      "image": "./images/gio-pho-tai-chay.webp",
+      "originalPrice": 100000,
+      "promotionalPrice": 95000,
+      "isNew": false,
+      "star": 3,
+      "categoryId": [2]
+    },
+    {
+      "foodId": 10,
+      "foodName": "DỒI CHAY",
+      "image": "./images/doi-chay.webp",
+      "originalPrice": 45000,
+      "promotionalPrice": 40500,
+      "isNew": false,
+      "star": 5,
+      "categoryId": [2]
+    },
+    {
+      "foodId": 11,
+      "foodName": "BÁNH GỐI",
+      "image": "./images/banh-goi.webp",
+      "originalPrice": 45000,
+      "promotionalPrice": 38250,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [2]
+    },
+    {
+      "foodId": 12,
+      "foodName": "HEO QUAY CHAY",
+      "image": "./images/heo-quay-chay.webp",
+      "originalPrice": 40000,
+      "promotionalPrice": 35200,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [2]
+    },
+    {
+      "foodId": 13,
+      "foodName": "LẨU THÁI CHAY",
+      "image": "./images/lau-thai-chay.webp",
+      "originalPrice": 100000,
+      "promotionalPrice": null,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [2]
+    },
+    {
+      "foodId": 14,
+      "foodName": "HEO QUAY CHAY",
+      "image": "./images/heo-quay.webp",
+      "originalPrice": 50000,
+      "promotionalPrice": 45000,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [2]
+    },
+    {
+      "foodId": 15,
+      "foodName": "CHẢ QUẾ CHAY",
+      "image": "./images/cha-que-chay.webp",
+      "originalPrice": 45000,
+      "promotionalPrice": 42750,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [2]
+    },
+    {
+      "foodId": 16,
+      "foodName": "MỌC CHAY",
+      "image": "./images/moc-chay.webp",
+      "originalPrice": 50000,
+      "promotionalPrice": 45000,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [2]
+    },
+    {
+      "foodId": 17,
+      "foodName": "TRỨNG ỐP LA CHAY",
+      "image": "./images/trung-op-la-chay.webp",
+      "originalPrice": 90000,
+      "promotionalPrice": null,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [2]
+    },
+    {
+      "foodId": 18,
+      "foodName": "CƠM SUSHI CHAY",
+      "image": "./images/com-shuhi-chay.webp",
+      "originalPrice": 50000,
+      "promotionalPrice": 37500,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [3]
+    },
+    {
+      "foodId": 19,
+      "foodName": "SALAT RAU",
+      "image": "./images/salat-rau.webp",
+      "originalPrice": 50000,
+      "promotionalPrice": 45000,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [4]
+    },
+    {
+      "foodId": 20,
+      "foodName": "ĐẬU BẮP ĐỒNG NAI",
+      "image": "./images/dau-bap-dong-nai.jpg",
+      "originalPrice": 20000,
+      "promotionalPrice": 10000,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [5]
+    },
+    {
+      "foodId": 21,
+      "foodName": "TỎI CÔ ĐƠN",
+      "image": "./images/toi-co-don.jpg",
+      "originalPrice": 25000,
+      "promotionalPrice": null,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [5]
+    },
+    {
+      "foodId": 22,
+      "foodName": "RAU NẤU CANH CHUA",
+      "image": "./images/rau-nau-canh-chua.png",
+      "originalPrice": 20000,
+      "promotionalPrice": null,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [5]
+    },
+    {
+      "foodId": 23,
+      "foodName": "NẤM MỐI",
+      "image": "./images/nam-moi.png",
+      "originalPrice": 42000,
+      "promotionalPrice": 29400,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [5]
+    },
+    {
+      "foodId": 24,
+      "foodName": "TRÀ OLONG TEA PLUS",
+      "image": "./images/tra-olong.jpg",
+      "originalPrice": 10000,
+      "promotionalPrice": null,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [6]
+    },
+    {
+      "foodId": 25,
+      "foodName": "NƯỚC ION POCARI SWEAT",
+      "image": "./images/nuoc-ion-pocari-sweat.png",
+      "originalPrice": 15000,
+      "promotionalPrice": null,
+      "isNew": false,
+      "star": 0,
+      "categoryId": [5]
+    }
+  ]
+}

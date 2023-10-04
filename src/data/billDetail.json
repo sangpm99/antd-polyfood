@@ -1,0 +1,29 @@
+[
+  {
+    "key": "1",
+    "stt": 1,
+    "food": "Khoai môn",
+    "image": "./assets/images/khoai-mon.webp",
+    "quantity": 1,
+    "price": 53200,
+    "total": 53200
+  },
+  {
+    "key": "2",
+    "stt": 2,
+    "food": "Bò xào chay",
+    "image": "./assets/images/bo-xao-chay.webp",
+    "quantity": 1,
+    "price": 45000,
+    "total": 45000
+  },
+  {
+    "key": "3",
+    "stt": 3,
+    "food": "hịt nướng chay",
+    "image": "./assets/images/thit-nuong-chay.webp",
+    "quantity": 1,
+    "price": 45000,
+    "total": 45000
+  }
+]
